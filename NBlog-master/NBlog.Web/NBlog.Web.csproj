@@ -325,6 +325,9 @@
     <Content Include="ApplicationInsights.config" />
     <Content Include="App_Data\localhost\Config\settings.json" />
     <Content Include="Jobs.Debug.config" />
+    <Content Include="App_Data\localhost\About\About Me.json" />
+    <Content Include="App_Data\localhost\Entry\the-very-first-post.json" />
+    <None Include="Properties\PublishProfiles\fcakbulut.pubxml" />
     <None Include="Scripts\jquery-1.8.0.intellisense.js" />
     <Content Include="Scripts\jquery-1.8.0.js" />
     <Content Include="Scripts\jquery-1.8.0.min.js" />
@@ -544,8 +547,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Browsers\" />
-    <Folder Include="App_Data\localhost\About\" />
-    <Folder Include="App_Data\localhost\Entry\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
